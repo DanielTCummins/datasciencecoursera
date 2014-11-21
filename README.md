@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Repository used to CourseRA Data Science training.
+Repository used for CourseRA Data Science training.
